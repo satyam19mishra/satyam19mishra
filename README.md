@@ -14,10 +14,10 @@
 
 - ⚡ ** Yes I'm A Programmer No I Won't Fix Your Computer **
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saurabh-mishra-049424177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam19mishra&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="saurabh mishra" /></p>
 
