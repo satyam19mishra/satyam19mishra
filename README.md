@@ -6,7 +6,7 @@
 
 - 🔭 I’m a student at **IIITDM Jabalpur** 
 
-- 🌱 I’m currently learning **BlockChain Technology**
+- 🌱 I’m currently learning **BlockChain Technology And Machine Learning**
 
 - 💬 Ask me about **Blockchain , Problem Solving**
 
