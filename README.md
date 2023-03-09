@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **BlockChain Technology And Machine Learning**
 
-- 💬 Ask me about **Blockchain , Problem Solving**
+- 💬 Ask me about **Blockchain , Problem Solving, Data Structure and Algorithms , Machine Learning**
 
 - 📫 How to reach me **saurabhrewa1999@gmail.com**
 
