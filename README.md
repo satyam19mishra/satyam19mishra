@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Blockchain , Problem Solving, Data Structure and Algorithms , Machine Learning**
 
-- 📫 How to reach me **saurabhrewa1999@gmail.com**
+- 📫 How to reach me **samrewa19@gmail.com**
 
 - ⚡ ** Yes I'm A Programmer No I Won't Fix Your Computer **
 
