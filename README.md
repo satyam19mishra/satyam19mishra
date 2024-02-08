@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Mishra </h1>
 <h3 align="center">A passionate Learner </h3>
-<img align="right" alt="Coding" width="400" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlqaGR5Z2tjZzJpcHo5ZnJuNnJ3b2l2bG5iaG12YjNqYnhuemoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
 - 🔭 I’m a student at **IIITDM Jabalpur** 
 
