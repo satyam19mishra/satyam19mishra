@@ -17,8 +17,8 @@
 
 🛠️ Tech Stack
 
-- Languages & Tools → Python, C++, SQL, Git/GitHub, PySpark, MLflow, Airflow, Docker
-- AI/ML → PyTorch, TensorFlow, Sklearn, Transformers, LlamaIndex, LangChain
+- Languages & Tools → Python, C++, SQL, Git/GitHub, MLflow, Airflow, Docker, k8s
+- AI/ML → PyTorch, TensorFlow, Sklearn, Transformers, LlamaIndex, LangChain, Autogen, Crew AI, LangGraph
 - Specialties → LLMs, RAG, Prompt Engineering, Agent Frameworks, Text-to-SQL, Financial NLP
 
 📢 Recent Highlights
