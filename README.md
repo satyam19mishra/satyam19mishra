@@ -3,15 +3,29 @@
 <h3 align="center">A passionate Learner </h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnlqaGR5Z2tjZzJpcHo5ZnJuNnJ3b2l2bG5iaG12YjNqYnhuemoxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif">
 
-- 🔭 I’m a student at **IIITDM Jabalpur** 
+- 🔭 I’m a Data Scientist at Dell Technologies and an M.Tech (AI/ML) graduate from IIITDM Jabalpur
 
-- 🌱 I’m currently learning **BlockChain Technology And Machine Learning**
+- 🌱 Currently exploring Generative AI, Text-to-SQL systems, RAG pipelines, and AI Agents
 
-- 💬 Ask me about **Blockchain , Problem Solving, Data Structure and Algorithms , Machine Learning**
+- 💬 Ask me about Machine Learning, Deep Learning, Information Retrieval, Financial AI, and MLOps
 
-- 📫 How to reach me **samrewa19@gmail.com**
+- 📫 Reach me at samrewa19@gmail.com
 
-- ⚡ ** Yes I'm A Programmer No I Won't Fix Your Computer **
+- ⚡ Fun fact: I build AI systems that automate work at scale — from SQL generation to finance commentary.
+
+- ⚡ Fun fact: I build AI systems that automate work at scale — from SQL generation to finance commentary. Yes, I’m a programmer, and no, I still won’t fix your printer. 😄
+
+🛠️ Tech Stack
+
+- Languages & Tools → Python, C++, SQL, Git/GitHub, PySpark, MLflow, Airflow, Docker
+- AI/ML → PyTorch, TensorFlow, Sklearn, Transformers, LlamaIndex, LangChain
+- Specialties → LLMs, RAG, Prompt Engineering, Agent Frameworks, Text-to-SQL, Financial NLP
+
+📢 Recent Highlights
+
+- 🏆 Game Changer Award (Dell CFO) for impactful AI-driven finance automation
+- 📄 ICLR 2025 Paper – How Does Entropy Influence Modern Text-to-SQL Systems?
+- 🎤 Delivered sessions on Prompt Engineering & RAG at internal AI knowledge forums
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
